@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn1,
+.btn2 {
+  font-size: 1.75rem;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn1 {
+  background-color: black;
+  color: white;
+}
+
+.btn2 {
+  background-color: yellow;
+}
