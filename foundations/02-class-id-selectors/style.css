@@ -1,0 +1,27 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.num1,
+.num5 {
+  font-size: 1.75rem;
+  background-color: #ffa7a7;
+}
+
+#num2 {
+  font-size: 3.5rem;
+  color: #0200ff;
+}
+
+.num3 {
+  font-size: 2.5rem;
+  background-color: #ffa7a7;
+}
+
+#num4 {
+  font-size: 2.25rem;
+  font-weight: 900;
+  background-color: #81ff80;
+}
